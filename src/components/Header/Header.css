@@ -7,8 +7,8 @@
 }
 
 .header{
-    width: Fill (1,920px)px;
-    height: Fixed (80px)px;
+    width: Fill (100%);
+    height: Fixed (80vh)vh;
     padding: 0px 67.21px 0px 67.2px;
     gap: 0px;
     opacity: 0px;
