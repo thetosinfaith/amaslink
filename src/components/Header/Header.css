@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    width: Fill (1,920px)px;
+    height: Fixed (80px)px;
+    padding: 0px 67.21px 0px 67.2px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+}
+
+.header-navs{
+    height: 10vh;
+    width: 100%;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15.73px;
+    text-align: left;
+
+
+    img{
+        width: 172px;
+        height: 68px;
+        gap: 0px;
+        opacity: 0px;
+    }
+
+    .nav-items{
+        width: Fixed (718px)px;
+        height: Fixed (80px)px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 60px;
+        list-style-type: none;
+    }
+}
+
+.reg-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.login-button {
+    background: #C90A12;
+    width: 100%;
+    padding: 10px 30px;
+    border-radius: 6px;
+    color: #FFFFFF;
+    border: 1px solid #C90A12;
+    font-size: 12px;
+}
+
+.register-button {
+    width: 100%;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: #C90A12;
+    background: #FFFFFF;
+    border: 2px solid #C90A12;
+    font-size: 12px;
+}
+
+
+
+
+
